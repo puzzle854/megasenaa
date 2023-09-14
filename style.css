@@ -1,0 +1,26 @@
+html {
+ background: #009e4e;
+}
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    font-size: 500;
+}
+header {
+align-items: center;
+}
+main {
+    align-items: center;
+    font-family: 'Signika Negative', sans-serif;
+}
+#sorte{
+    text-align: center;
+}
+#resultado {
+    color: red;
+    text-align: center;
+}
+
+div {
+    text-align: right;
+}
